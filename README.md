@@ -45,6 +45,13 @@ This repository is licensed under the MIT License.
 Feel free to open issues and pull requests to improve the tokenizers or add new configurations.
 
 ---
+## ⚠️ **Disclaimer**  
+All the projects in this repository are created for educational, reference, or personal experimentation purposes only.
+They are not intended for commercial use, clinical diagnosis, or any field deployment.
+
+Use them responsibly and do not rely on these applications for critical decisions.
+
+---
 
 ## 📧 Contact
 For queries, reach out via [GitHub Issues](https://github.com/AnishRN/huggingface-tokenider-models/issues) or [Email](arn23748@gmail.com).
