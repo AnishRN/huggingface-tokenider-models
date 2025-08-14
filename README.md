@@ -47,5 +47,5 @@ Feel free to open issues and pull requests to improve the tokenizers or add new 
 ---
 
 ## 📧 Contact
-For queries, reach out via [GitHub Issues](https://github.com/your-username/tokenizers-collection/issues) or [Email](arn23748@gmail.com).
+For queries, reach out via [GitHub Issues](https://github.com/AnishRN/huggingface-tokenider-models/issues) or [Email](arn23748@gmail.com).
 
