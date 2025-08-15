@@ -16,7 +16,7 @@ This repository contains three different tokenizers — **Unigram**, **BPE (Byte
 ### 2. **BPE (Byte Pair Encoding) Tokenizer**
 - **Description**: A deterministic subword segmentation algorithm that starts with individual characters and merges the most frequent pairs iteratively until a set vocabulary size is reached. BPE is widely used in modern NLP models due to its balance between vocabulary size and handling of rare words.
 - **Use Cases**: Suitable for large-scale datasets and general-purpose NLP tasks.
-- **Hugging Face Model**: [BPE Tokenizer](https://huggingface.co/yakul259/english_bpe_tokenizer-60k)
+- **Hugging Face Model**: [BPE Tokenizer](https://huggingface.co/yakul259/english-bpe-tokenizer-60k)
 
 ---
 
